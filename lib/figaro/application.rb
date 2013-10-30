@@ -1,6 +1,6 @@
 require "erb"
 require "yaml"
-
+require 'active_support/string_inquirer'
 require "figaro/error"
 
 module Figaro
